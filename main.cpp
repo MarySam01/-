@@ -1,7 +1,14 @@
+#include "fio.h"
+
 #include <iostream>
-#include "hello.h"
+
 using namespace std;
 int main()
+
 {
-cout<<name();
+    cout << print_SMG() << endl << print_PES() << endl; 
+    system("pause");
+    return 1;
+
+
 }
