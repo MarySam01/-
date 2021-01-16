@@ -1,0 +1,313 @@
+    1  ls
+    2  tree
+    3  gwecbnjlvvjsnvkmsdv,f
+    4  b
+    5  ermjerlkeb
+    6  R'b';em'gw
+    7  g'rsl
+    8  wlger
+    9  clear
+   10  ls
+   11  dir
+   12  mkdir dev
+   13  cd dev
+   14  clear
+   15  cd
+   16  clear
+   17  git config --global user.name "Samoilova Maria"
+   18  git config --global user.email "samoilovamariya2001@gmail.com"
+   19  git config --list --global
+   20  git config --global core.editor "nano"
+   21  git config --list --global
+   22  git config --global core.editor "nano -w"
+   23  git config --global core.editor "mate -w"
+   24  git config --global core.editor "nano -w"
+   25  git config --global core.editor "nano"
+   26  git config --global rfrf.rfrf "nfff"
+   27  git config --list --global
+   28  git config --global alias.ll 'git log --oneline --decorate --graph --all'
+   29  git config --list --global
+   30  ls
+   31  mkdir sisprog
+   32  cd sisprog
+   33  cat> hello.cpp
+   34  clear
+   35  git config --list --global
+   36  git config --global --unset rfrf.rfrf
+   37  git config --list --global
+   38  git config --list
+   39  last -10
+   40  git config --global core.editor nano
+   41  git config --global core.editor emacs
+   42  git config --list --global
+   43  git config --global 
+   44  git config --list --global
+   45  cat ~/.gitconfig
+   46  git config --global --unset alias
+   47  git config --global --unset alias.ll
+   48  cat ~/.gitconfig
+   49  git config --global alias.git ll
+   50  cat ~/.gitconfig
+   51  git config --global --unset alias.git
+   52  cat ~/.gitconfig
+   53  git config --global alias.ll 'log --oneline --decorate --graph -all'
+   54  git ll
+   55  cat ~/.gitconfig
+   56  git ll
+   57  git config --global -e
+   58  git l
+   59  git ll
+   60  git ll1
+   61  ll
+   62  git config --global -e
+   63  ll
+   64  cat ~/.gitconfig
+   65  git config --global -e
+   66  cat ~/.gitconfig
+   67  clear
+   68  git init
+   69  init
+   70  cd C:/Users/user/my_project
+   71  clear
+   72  cd
+   73  ls
+   74  clear
+   75  mkdir SMG
+   76  cd SMG
+   77  git init
+   78  git init SMG
+   79  rm -r SMG
+   80  rm -r SMG
+   81  clear
+   82  cd
+   83  rm -r SMG
+   84  clear
+   85  git init SMG
+   86  cat .gitignore
+   87  cat >.gitignore
+   88  rm -r SMG
+   89  git init SMG
+   90  cd SMG
+   91  cat >.gitignore
+   92  cd .git
+   93  cd-
+   94  cd -
+   95  rm .gitignore
+   96  cd /SMG/.git
+   97  cd
+   98  cd /SMG/.git
+   99  cd ~/SMG/.git
+  100  cd
+  101  clear
+  102  cd ~/SMG/.git
+  103  cat >.gitignore
+  104  cd
+  105  git mv sisprog/hello.cpp SMG
+  106  git mv hello.cpp SMG
+  107  git add SMG/hello.cpp
+  108  cd sisprog
+  109  git add SMG/hello.cpp
+  110  git mv hello.cpp SMG
+  111  git mv hello.cpp SMG/
+  112  git mv hello.cpp samoi/
+  113  git mv hello.cpp samoi
+  114  cd
+  115  rm -r SMG
+  116  cd sisprog
+  117  clear
+  118  git init SMG
+  119  cd SMG
+  120  cat >.gitignore
+  121  cd -
+  122  mv hello.cpp SMG/
+  123  cd ~/SMG/.git
+  124  cd SMG/.git
+  125  git status
+  126  cd -
+  127  cd SMG
+  128  git status
+  129  git init SMG
+  130  rm -r SMG
+  131  cd sisprog
+  132  clear
+  133  git init SMG
+  134  cd SMG
+  135  cat >.gitignore
+  136  cd -
+  137  mv *.* SMG
+  138  cd SMG
+  139  git status
+  140  git add .
+  141  git status
+  142  git commit -m "my first commit"
+  143  ll
+  144  git log
+  145  cat >hello.cpp
+  146  git add hello.cpp
+  147  git add -f hello.cpp
+  148  git status
+  149  git reset HEAD hello.cpp
+  150  git status
+  151  git checkout -- hello.cpp
+  152  git restore hello.cpp
+  153  git add .
+  154  git status
+  155  clear
+  156  cat hello.cpp
+  157  nano hello.cpp
+  158  cat hello.cpp
+  159  git add hello.cpp
+  160  git add -f hello.cpp
+  161  git status
+  162  nano hello.cpp
+  163  git status
+  164  git add hello.cpp
+  165  git status
+  166  git restore --staged hello.cpp
+  167  git status
+  168  git checkout --hello.cpp
+  169  git checkout -- hello.cpp
+  170  git add hello.cpp
+  171  git add -f hello.cpp
+  172  git checkout -- hello.cpp
+  173  cat hello.cpp
+  174  git checkout -- hello.cpp
+  175  git checkout -- hello.cpp
+  176  cat hello.cpp
+  177  clear
+  178  nano hello.cpp
+  179  clear
+  180  cat hello.cpp
+  181  nano hello.cpp
+  182  cat hello.cpp
+  183  git status
+  184  git add hello.cpp
+  185  git status
+  186  git restore --staged hello.cpp
+  187  git status
+  188  git reset HEAD hello.cpp
+  189  git status
+  190  ls
+  191  nano hello.cpp
+  192  git add .
+  193  git status
+  194  cat >readme.txt
+  195  git status
+  196  git add readme.txt
+  197  clear
+  198  cat hello.cpp
+  199  nano hello.cpp
+  200  cat hello.cpp
+  201  git status
+  202  git add hello.cpp
+  203  git add -f hello.cpp
+  204  git status
+  205  git restore --staged hello.cpp
+  206  git status
+  207  git restore hello.cpp
+  208  git add hello.cpp
+  209  git add -f hello.cpp
+  210  git status
+  211  git restore hello.cpp
+  212  git status
+  213  rm hello.cpp
+  214  clear
+  215  cat >hello.cpp
+  216  clear
+  217  cat hello.cpp
+  218  git add hello.cpp
+  219  git status
+  220  nano hello.cpp
+  221  cat hello.cpp
+  222  git status
+  223  git add hello.cpp
+  224  git status
+  225  git restore --staged hello.cpp
+  226  git status
+  227  clear
+  228  cat hello.cpp
+  229  nano hello.cpp
+  230  cat hello.cpp
+  231  git status
+  232  git add hello.cpp
+  233  git add -f hello.cpp
+  234  git status
+  235  git restore --staged hello.cpp
+  236  git status
+  237  git checkout -- hello.cpp
+  238  git add hello.cpp
+  239  git add -f hello.cpp
+  240  git status
+  241  git checkout -- hello.cpp
+  242  git status
+  243  cat hello.cpp
+  244  git add hello.cpp
+  245  clear
+  246  cat hello.cpp
+  247  nano hello.cpp
+  248  cat hello.cpp
+  249  git status
+  250  git add hello.cpp
+  251  git status
+  252  git restore --staged hello.cpp
+  253  git status
+  254  git restore hello.cpp
+  255  clear
+  256  cd -
+  257  clear
+  258  git clone https://githab.com/MarySam01/PMI2.git
+  259  git clone https://githab.com/MarySam01/PMI2.git
+  260  git clone https://githab.com/MarySam01/PMI2.git
+  261  git clone https://github.com/MarySam01/PMI2.git
+  262  cd PMI2
+  263  cat >main.cpp
+  264  cat >hello_smg
+  265  git add main.cpp
+  266  git status
+  267  git pull
+  268  git push 
+  269  git pull
+  270  nano main.cpp
+  271  cat main.cpp
+  272  nano main.cpp
+  273  add main.cpp
+  274  git add main.cpp
+  275  cat main.cpp
+  276  nano main.cpp
+  277  cat main.cpp
+  278  nano main.cpp
+  279  cat main.cpp
+  280  nano main.cpp
+  281  cat main.cpp
+  282  git add main.cpp
+  283  cat >main.cpp
+  284  git status
+  285  git pull
+  286  git push
+  287  git pull
+  288  git status
+  289  git add main.cpp
+  290  git status
+  291  git commit -m "lollol"
+  292  git status
+  293  git log
+  294  git push
+  295  git push
+  296* 
+  297  git status
+  298  git push
+  299  git pull
+  300  git pull
+  301  git push
+  302  clear
+  303  cat main.cpp
+  304  nano main.cpp
+  305  cat main.cpp
+  306  git add main.cpp
+  307  git commit -m "dobavila kommentarii"
+  308  git push
+  309  git log
+  310  git reset --hard HEAD^1
+  311  git log
+  312  history
+  313  history > history_SMG.txt
