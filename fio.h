@@ -7,4 +7,5 @@ using namespace std;
 
 string print_PES();
 string print_SMG();
+string print_PNG();
 #endif
